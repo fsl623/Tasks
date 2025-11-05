@@ -28,7 +28,8 @@
 
 # 列表语法
 
-- #### 如果想要在列表中镶嵌另一种元素时需要缩进四个空格或者一个制表符（tab）![image-20251104202813376](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251104202813376.png)
+- #### 如果想要在列表中镶嵌另一种元素时需要缩进四个空格或者一个制表符（tab）<img width="1082" height="1045" alt="屏幕截图 2025-11-04 202803" src="https://github.com/user-attachments/assets/b0bea1ca-d544-4131-8f22-9cc6694cfc92" />
+
 
 - #### 代码块被放在列表里时需要缩进八个空格或两个制表符（tab）
 
@@ -40,9 +41,11 @@
 
 - #### 要创建代码块，请将代码块的每一行缩进至少四个空格或一个制表符
 
-- #### 如果代码行数较多则可以用围栏代码块![image-20251104203937421](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251104203937421.png)
+- #### 如果代码行数较多则可以用围栏代码块<img width="1064" height="1094" alt="屏幕截图 2025-11-04 203934" src="https://github.com/user-attachments/assets/8a584004-59dc-49a5-b70d-eafdeeffd72e" />
 
-- #### 如果你要表示为代码的单词或短语中包含一个或多个反引号，则可以通过将单词或短语包裹在双反引号(``)中![image-20251104204038740](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251104204038740.png)
+
+- #### 如果你要表示为代码的单词或短语中包含一个或多个反引号，则可以通过将单词或短语包裹在双反引号(``)中<img width="1051" height="339" alt="屏幕截图 2025-11-04 204033" src="https://github.com/user-attachments/assets/42fdaf2d-11c5-48cc-a859-d3e9463c1fbe" />
+
 
 - #### [Markdown 代码语法 ](https://markdown.com.cn/basic-syntax/code.html)
 
@@ -54,7 +57,8 @@
 
 ***
 
-- #### 注意分隔线上下均要又空白回车![image-20251104204525390](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251104204525390.png)
+- #### 注意分隔线上下均要又空白回车<img width="1038" height="548" alt="屏幕截图 2025-11-04 204522" src="https://github.com/user-attachments/assets/1bf870f2-73ed-4471-84b8-38179fa7d66d" />
+
 
 # 链接语法
 
@@ -66,7 +70,9 @@
 
 - #### 使用尖括号可以很方便地把URL或者email地址变成可点击的链接<https://markdown.com.cn/>
 
-- #### 强调链接, 在链接语法前后增加星号。 要将链接表示为代码，请在方括号中添加反引号![image-20251104210446586](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251104210446586.png)
+- #### 强调链接, 在链接语法前后增加星号。 要将链接表示为代码，请在方括号中添加反引号
+<img width="1084" height="634" alt="屏幕截图 2025-11-04 210444" src="https://github.com/user-attachments/assets/d5ceda06-8736-4739-b3dd-9f70490b0614" />
+
 
 
 
