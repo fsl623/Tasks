@@ -1,4 +1,4 @@
-# 标题语法
+<img width="1412" height="112" alt="屏幕截图 2025-11-05 090626" src="https://github.com/user-attachments/assets/730ce40e-ac1d-4765-ad3e-0a7448629578" /># 标题语法
 
 - #### 一个#代表最大的级别，#越多表示字体越小共有六个等级
 
@@ -10,7 +10,7 @@
 
 - #### 在typora中粗体为ctrl+B，斜体为ctrl+I，下划线为ctrl+U
 
-- #### * 为粗体， ** 为斜体， *** 斜体加粗体
+- #### \*为斜体，\*\*为粗体， \*\*\*斜体加粗体
 
 - #### [Markdown 强调语法](https://markdown.com.cn/basic-syntax/emphasis.html)
 
@@ -73,6 +73,16 @@
 - #### 强调链接, 在链接语法前后增加星号。 要将链接表示为代码，请在方括号中添加反引号
 <img width="1084" height="634" alt="屏幕截图 2025-11-04 210444" src="https://github.com/user-attachments/assets/d5ceda06-8736-4739-b3dd-9f70490b0614" />
 
+# 图片语法
 
+- #### 与我而言我喜欢直接将图片拖到编译器上
 
+- #### 给图片增加链接，请将图像的Markdown 括在方括号中，然后将链接添加在圆括号中
+<img width="1412" height="112" alt="屏幕截图 2025-11-05 090626" src="https://github.com/user-attachments/assets/ea61de67-306e-422a-8e51-ae235b7d0941" />
+
+![shiprock c3b9a023](https://github.com/user-attachments/assets/dd6c2524-cb4e-41bc-b2c1-175d8ca4237a)
+
+- #### 同样的图片也可以加Title，与链接的方式一致
+
+ 
 
