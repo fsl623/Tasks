@@ -1,4 +1,4 @@
-<img width="1412" height="112" alt="屏幕截图 2025-11-05 090626" src="https://github.com/user-attachments/assets/730ce40e-ac1d-4765-ad3e-0a7448629578" /># 标题语法
+# 标题语法
 
 - #### 一个#代表最大的级别，#越多表示字体越小共有六个等级
 
@@ -83,6 +83,35 @@
 ![shiprock c3b9a023](https://github.com/user-attachments/assets/dd6c2524-cb4e-41bc-b2c1-175d8ca4237a)
 
 - #### 同样的图片也可以加Title，与链接的方式一致
+# 转义字符语法
+
+- #### 如果想打出一些特殊符号，可以在符号前加\
+
+# 内嵌HTML标签
+
+- #### HTML 的行级內联标签如 `<span>`、`<cite>`、`<del>` 不受限制，可以在 Markdown 的段落、列表或是标题里任意使用
+
+- #### 区块元素──比如 `<div>`、`<table>`、`<pre>`、`<p>` 等标签，必须在前后加上空行，以便于内容区分<img width="1072" height="722" alt="屏幕截图 2025-11-06 083137" src="https://github.com/user-attachments/assets/ed6b733f-7acc-4210-bb5c-5ae18160b6ce" />
+
+
+
+- #### 在 HTML 块级标签内不能使用 Markdown 语法。例如 `<p>italic and **bold**</p>` 将不起作用
+
+# 表格
+
+## 表格
+
+- #### 要添加表，请使用三个或多个连字符（`---`）创建每列的标题，并使用管道（`|`）分隔每列。您可以选择在表的任一端添加管道
+<img width="576" height="241" alt="屏幕截图 2025-11-06 080858" src="https://github.com/user-attachments/assets/ff4a63b0-60a6-4bab-bb24-a3b3e2377001" />
+
+- #### 单元格宽度可以变化，如下所示。呈现的输出将看起来相同<img width="811" height="234" alt="屏幕截图 2025-11-06 080913" src="https://github.com/user-attachments/assets/c3c986b7-e8f4-44e5-a849-7775df147602" />
+
+## 对齐
+
+#### 您可以通过在标题行中的连字符的左侧，右侧或两侧添加冒号（`:`），将列中的文本对齐到左侧，右侧或中心
+<img width="504" height="264" alt="屏幕截图 2025-11-06 081119" src="https://github.com/user-attachments/assets/dffa0318-4767-4af5-b023-fabacd3b71e2" />
+
 
  
+
 
