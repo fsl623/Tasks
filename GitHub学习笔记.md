@@ -42,6 +42,7 @@
 
   # 优化个人主页
 - #### 添加了贪吃蛇动画，https://github.com/reaink/reaink/blob/main/README.md
-- #### 
+- #### 添加简介中会动的手，https://github.com/anzhihe/anzhihe/blob/main/README.md
   
+
 
