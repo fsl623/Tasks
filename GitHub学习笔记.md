@@ -22,16 +22,20 @@
 
   # GitHub基础操作
 
-- #### ***<u>再创建第二个存储库</u>***点击右上角新增功能即可![image-20251105232753222](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251105232753222.png)
+- #### ***<u>再创建第二个存储库</u>***点击右上角新增功能即可<img width="421" height="369" alt="屏幕截图 2025-11-05 232638" src="https://github.com/user-attachments/assets/1bdc2e5e-3719-45a7-ab76-b614bc311811" />
+
 
 - #### 添加文件：将文件添加到存储库中只需点击右上角Add file即可
 
-![屏幕截图 2025-11-05 233029](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-05 233029.png)
+<img width="1369" height="698" alt="屏幕截图 2025-11-05 233029" src="https://github.com/user-attachments/assets/4612a163-7ae1-4e91-8a6c-0480b0fdffe3" />
+
 
 - #### 文件修改：修改文先在上方图片中点击要修改的相应文件，点击进入之后在看下面这张图片点击红笔圈起来的部分即可修改文件
 
-![屏幕截图 2025-11-05 233125](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-05 233125.png)
+<img width="930" height="148" alt="屏幕截图 2025-11-05 233125" src="https://github.com/user-attachments/assets/8982da69-7e4d-4437-8c05-dfa64d4497b6" />
+
 
 - #### 在Typora中笔记添加的图片，将文件导入GitHub存储库中可能图片是一个链接无法显示，所以最好是浏览一下，如果是一串链接，就在GitHub中将图片加上
+
 
 - #### 当然有什么问题可以询问GitHub自带的ai，这段时间使用下来感觉这个ai还蛮好用的
