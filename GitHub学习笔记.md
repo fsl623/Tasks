@@ -39,3 +39,9 @@
 
 
 - #### 当然有什么问题可以询问GitHub自带的ai，这段时间使用下来感觉这个ai还蛮好用的
+
+  # 优化个人主页
+- #### 添加了贪吃蛇动画，https://github.com/reaink/reaink/blob/main/README.md
+- #### 
+  
+
