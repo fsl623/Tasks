@@ -14,27 +14,34 @@
 
 - #### 如选择demo目录作为 Git 仓库，然后进入demo目录之中，点击鼠标右键，再选择Git Bash Here，即可打开 Git Bash 的命令行窗口
 
-  ![image-20251105213546458](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251105213546458.png)
+<img width="450" height="422" alt="屏幕截图 2025-11-05 213536" src="https://github.com/user-attachments/assets/94d6b82f-b239-47ee-bc9b-4c3aef7d6dc6" />
+
+
 
 - #### 在添加文件经git仓库时，所添加的文件一定不能是空文件，不然会导致系统找不到文件路径，或者直接添加文档而且文档也不能是空的
 
-- #### 如图添加的readme.txt文档里一定要有东西![屏幕截图 2025-11-07 184037](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-07 184037.png)
+- #### 如图添加的readme.txt文档里一定要有东西
+- <img width="1623" height="285" alt="屏幕截图 2025-11-07 184037" src="https://github.com/user-attachments/assets/b4adfaa6-573d-4650-a509-ddf308ef527a" />
+
 
 # 一，命令语句
 
-1. 1. #### git status：输入这个命令可以查看仓库状态，但此时显示demo不是git的仓库，还需在计算机中声明demo为git仓库![image-20251105214051025](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251105214051025.png)
+1. 1. #### git status：输入这个命令可以查看仓库状态，但此时显示demo不是git的仓库，还需在计算机中声明demo为git仓库
+   2. <img width="759" height="143" alt="屏幕截图 2025-11-05 214046" src="https://github.com/user-attachments/assets/aaa9c485-ed3a-4efe-9d7a-038f482933d7" />
 
-   2. #### git init：输入此命令，初始化Git仓库，此时已经将demo初始化为Git的仓库![image-20251105214400159](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251105214400159.png)			    
+   3. #### git init：输入此命令，初始化Git仓库，此时已经将demo初始化为Git的仓库
+   4. <img width="760" height="239" alt="屏幕截图 2025-11-05 214357" src="https://github.com/user-attachments/assets/f68bd8be-ee12-4c0b-a493-628341f5b46b" />
 
-   3. #### git add：此命令是将文件放到缓存区，等待下一步给次文件的添加做说明
 
-   4. #### git commit -m "text commit"：将缓存区文件提交到仓库，“ ”里的内容是对提交文件的标注，建议将文件提交的目的写清楚便于后续查看
+   5. #### git add：此命令是将文件放到缓存区，等待下一步给次文件的添加做说明
 
-   5. #### git log：打印Git仓库<u>提交</u>日志，会显示了我们的提交记录，提交记录的内容包括Author提交作者、Date提交日期和提交信息
+   6. #### git commit -m "text commit"：将缓存区文件提交到仓库，“ ”里的内容是对提交文件的标注，建议将文件提交的目的写清楚便于后续查看
 
-   6. #### git branch：只输入git branch是查看Git仓库的分支情况；输入git branch a会创建一个名为a的分支，且当前仍处于主分支
+   7. #### git log：打印Git仓库<u>提交</u>日志，会显示了我们的提交记录，提交记录的内容包括Author提交作者、Date提交日期和提交信息
 
-   7. #### git checkout：输入git checkout a切换到a分支![img](https://pic1.zhimg.com/v2-3b28d0015bd823222db84211c034741e_1440w.jpg)
+   8. #### git branch：只输入git branch是查看Git仓库的分支情况；输入git branch a会创建一个名为a的分支，且当前仍处于主分支
+
+   9. #### git checkout：输入git checkout a切换到a分支![img](https://pic1.zhimg.com/v2-3b28d0015bd823222db84211c034741e_1440w.jpg)
 
       #### 输入git branch -b b会直接创建一个名为b的分支并直接切换到b分支
 
@@ -42,13 +49,13 @@
 
       #### 同时也该注意如果在a分支输入创建分支的命令，则是在a分支下创建分支
 
-   8. #### git merge：分支合并命令输入git merge a会将a分支合并到主分支![img](https://pic4.zhimg.com/v2-807514785bdbb725053f4e30458bf5f5_1440w.jpg)
+   10. #### git merge：分支合并命令输入git merge a会将a分支合并到主分支![img](https://pic4.zhimg.com/v2-807514785bdbb725053f4e30458bf5f5_1440w.jpg)
 
       #### 此外，在这里需要注意一点，那就是：在合并分支的时候，要考虑到两个分支是否有冲突，如果有冲突，则不能直接合并，需要先解决冲突；反之，则可以直接合并
 
-   9. #### git branch -d & git branch -D：分支删除命令输入git branch -d a会删除a分支，如果a分支还未合并到主分支则会删除不了，若这时执意要删除则可以用git branch -D进行强制删除
+   11. #### git branch -d & git branch -D：分支删除命令输入git branch -d a会删除a分支，如果a分支还未合并到主分支则会删除不了，若这时执意要删除则可以用git branch -D进行强制删除
 
-   10. #### git tag：分支添加标签命令（暂时还未理解，之后再补充自己的理解）
+   12. #### git tag：分支添加标签命令（暂时还未理解，之后再补充自己的理解）
 
 
 # 二，Git与GitHub的绑定
@@ -92,8 +99,8 @@
 #### 后再按住ESC输入 :wq即可（此处注意:也要输入）
 
 #### 后续可能会有如下情况，这是在确认你是否相信改服务器，输入yes即可
+<img width="1015" height="316" alt="屏幕截图 2025-11-07 200250" src="https://github.com/user-attachments/assets/ea7a8533-e92a-45ae-9f64-124d002e512f" />
 
-![image-20251107200255808](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251107200255808.png)
 
 # 三，通过Git将代码提交到GitHub
 
