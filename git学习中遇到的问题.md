@@ -14,7 +14,8 @@
 
 #### 后续可能会有如下情况，这是在确认你是否相信改服务器，输入yes即可
 
-![image-20251107200255808](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251107200255808.png)
+<img width="1015" height="316" alt="屏幕截图 2025-11-07 200250" src="https://github.com/user-attachments/assets/127e98fb-a99a-4de4-81b9-109c7e2b4e30" />
+
 
 #### 之后再输入ssh -T git@github.com检查是否能正常链接
 
@@ -34,7 +35,8 @@
 
 #### 比如在拉取远程仓库时，本地的文件比远程仓库的文件更新，就会出现这样的情况
 
-#### ![image-20251109203311404](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251109203311404.png)
+<img width="2005" height="467" alt="屏幕截图 2025-11-09 203300" src="https://github.com/user-attachments/assets/cf63ed00-87da-46a4-9811-734fc0f6f37e" />
+
 
 #### 这是Git出于安全考虑拒绝合并，可以在git pull命令后加上`--allow-unrelated-histories`
 
