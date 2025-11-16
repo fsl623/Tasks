@@ -16,3 +16,6 @@
 1. [HTML学习笔记](https://github.com/fsl623/Tasks/blob/main/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 3. [CSS学习笔记](https://github.com/fsl623/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+4. [JS学习笔记](https://github.com/fsl623/Tasks/blob/main/JS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
