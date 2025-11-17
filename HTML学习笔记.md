@@ -4,7 +4,7 @@
 
 #### 标签通常成对出现，包括开始标签和结束标签（双标签），内容位于两个表标签之间，例如![image-20251111181117542](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181117542.png)
 
-#### 除了双标签，也有单标签，例如![image-20251111181306838](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181306838.png)![image-20251111181307024](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181307024.png)![image-20251111181308174](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181308174.png)
+#### 除了双标签，也有单标签，例如![image-20251111181308174](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181308174.png)
 
 #### 区别：单标签用于没有内容的元素，双标签用于有内容的元素
 
