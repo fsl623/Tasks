@@ -2,25 +2,34 @@
 
 #### 定义：通过一系列的`标签(也称为元素)`来定义文本，图像，链接等。HTML标签是由尖括号包围的关键字。
 
-#### 标签通常成对出现，包括开始标签和结束标签（双标签），内容位于两个表标签之间，例如![image-20251111181117542](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181117542.png)
+#### 标签通常成对出现，包括开始标签和结束标签（双标签），内容位于两个表标签之间，例如<img width="715" height="158" alt="屏幕截图 2025-11-11 181114" src="https://github.com/user-attachments/assets/1cce14bf-310e-4560-8c62-874e4ccb161f" />
 
+<<<<<<< HEAD
 #### 除了双标签，也有单标签，例如![image-20251111181308174](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181308174.png)
+=======
+#### 除了双标签，也有单标签，例如<img width="834" height="179" alt="屏幕截图 2025-11-11 181303" src="https://github.com/user-attachments/assets/697e9928-573b-44a5-a3e7-f9df3bfe0bb6" />
+>>>>>>> cef08a92e4947282203fa6e010d76fafe123e7e0
 
 #### 区别：单标签用于没有内容的元素，双标签用于有内容的元素
 
 # HTML文件结构
 
-![image-20251111181832830](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181832830.png)
+<img width="1189" height="910" alt="屏幕截图 2025-11-11 181758" src="https://github.com/user-attachments/assets/7c611621-00e7-4580-b119-d1fc32616072" />
+
 
 #### HTML文件结构一般包含以下结构
 
-1. #### 此处标亮的代码是告诉浏览器这是一个HTML文件![屏幕截图 2025-11-11 181927](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 181927.png)
+1. #### 此处标亮的代码是告诉浏览器这是一个HTML文件<img width="1195" height="914" alt="屏幕截图 2025-11-11 181927" src="https://github.com/user-attachments/assets/4c7f1ceb-0b8b-421a-8936-82b30325a517" />
 
-2. #### 此处标量的代码时HTML文件的外壳，主要内容要包含在这个外壳中![屏幕截图 2025-11-11 181946](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 181946.png)
 
-3. #### 此处代码其内部包含一些文件的原信息    ~~1~~![屏幕截图 2025-11-11 182011](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 182011.png)
+2. #### 此处标量的代码时HTML文件的外壳，主要内容要包含在这个外壳中<img width="1177" height="900" alt="屏幕截图 2025-11-11 181946" src="https://github.com/user-attachments/assets/569cb325-fde4-4227-af66-c436f3873126" />
 
-4. #### 此处代码其内部所包含的就是显示在浏览器上的内容![屏幕截图 2025-11-11 182030](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 182030.png)
+
+3. #### 此处代码其内部包含一些文件的原信息 <img width="1167" height="899" alt="屏幕截图 2025-11-11 182011" src="https://github.com/user-attachments/assets/6e6a68fe-8f5a-4e49-9428-2446daa94804" />
+
+
+4. #### 此处代码其内部所包含的就是显示在浏览器上的内容<img width="1177" height="910" alt="屏幕截图 2025-11-11 182030" src="https://github.com/user-attachments/assets/fd6a87a6-08eb-48f7-9691-f2b7f0d91bd3" />
+
 
 ## HTML环境搭建小tips：在VScode中构建HTML环境时可以输入一个！选择只有一个！的那个选项可以直接将结构搭建好
 
@@ -36,27 +45,29 @@
 
 - #### 表格标签：最外层用一个\<table>\</table>，\<tr>\</tr>为行，\<td>\<td>为列，\<th>\<th>为表头，还可以将\<table>\</table>改为\<table border="a">\</table>，此操作可以加上边框，a为阿拉伯数字，为边框的宽度
 
-  ![屏幕截图 2025-11-11 191817](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 191817.png)![屏幕截图 2025-11-11 191759](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 191759.png)
+ <img width="304" height="718" alt="屏幕截图 2025-11-11 191817" src="https://github.com/user-attachments/assets/24e7a67f-f599-4f7d-8892-46be68985437" />
 
+<img width="356" height="201" alt="屏幕截图 2025-11-11 191759" src="https://github.com/user-attachments/assets/d5e60d31-ee14-42e3-9b32-8039ee7e980c" />
 
 
 - #### 列表标签：
 
-  1. #### 无序列表：![屏幕截图 2025-11-11 190619](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 190619.png)
+  1. #### 无序列表：<img width="339" height="168" alt="屏幕截图 2025-11-11 190619" src="https://github.com/user-attachments/assets/b35bf32e-e0e7-498d-9df9-a07423d695ee" />
 
-  2. #### 有序列表：![image-20251111190639555](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111190639555.png)
+
+  2. #### 有序列表：<img width="334" height="172" alt="屏幕截图 2025-11-11 190627" src="https://github.com/user-attachments/assets/2f052f9f-6877-42bf-819b-e17a38bc38ec" />
 
 
 
 - #### 其他标签： 
 
-  1. #### \<br>：相当于回车![image-20251111195345013](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111195345013.png)
+  1. #### \<br>：相当于回车<img width="715" height="97" alt="屏幕截图 2025-11-11 195338" src="https://github.com/user-attachments/assets/18de0fe0-18ba-49c6-9f48-7e7415f8581c" />
 
   2. #### \<hr>：创建一个分隔线
 
 # HTML属性
 
-- #### 基本语法![屏幕截图 2025-11-11 192442](D:\OneDrive\图片\Screenshots\屏幕截图 2025-11-11 192442.png)
+- #### 基本语法<img width="768" height="575" alt="屏幕截图 2025-11-11 192442" src="https://github.com/user-attachments/assets/99a05c63-8350-41ad-bc98-c14cec7caffd" />
 
   #### 注意：有些属性是某个标签特有的，而有的属性是大部分标签都可以使用的
 

@@ -1,5 +1,5 @@
 # 阶段一学习成果
-1. [GitHub学习笔记](https://github.com/fsl623/Tasks/blob/main/GitHub%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+1. <a href="https://github.com/fsl623/Tasks/blob/main/GitHub%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md" target="_blank" rel="noopener noreferrer">GitHub学习笔记</a>
 
 2. [Markdown学习笔记](https://github.com/fsl623/Tasks/blob/main/Markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
@@ -16,3 +16,8 @@
 1. [HTML学习笔记](https://github.com/fsl623/Tasks/blob/main/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 3. [CSS学习笔记](https://github.com/fsl623/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+4. [JS学习笔记](https://github.com/fsl623/Tasks/blob/main/JS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+5. [简易静态网站](https://fsl623.github.io/myweb.github.io/)
+
