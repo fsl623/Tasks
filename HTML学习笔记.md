@@ -4,12 +4,8 @@
 
 #### 标签通常成对出现，包括开始标签和结束标签（双标签），内容位于两个表标签之间，例如<img width="715" height="158" alt="屏幕截图 2025-11-11 181114" src="https://github.com/user-attachments/assets/1cce14bf-310e-4560-8c62-874e4ccb161f" />
 
-<<<<<<< HEAD
-#### 除了双标签，也有单标签，例如![image-20251111181308174](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20251111181308174.png)
-=======
-#### 除了双标签，也有单标签，例如<img width="834" height="179" alt="屏幕截图 2025-11-11 181303" src="https://github.com/user-attachments/assets/697e9928-573b-44a5-a3e7-f9df3bfe0bb6" />
->>>>>>> cef08a92e4947282203fa6e010d76fafe123e7e0
 
+#### 除了双标签，也有单标签，例如<img width="834" height="179" alt="屏幕截图 2025-11-11 181303" src="https://github.com/user-attachments/assets/697e9928-573b-44a5-a3e7-f9df3bfe0bb6" />
 #### 区别：单标签用于没有内容的元素，双标签用于有内容的元素
 
 # HTML文件结构
