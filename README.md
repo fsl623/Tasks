@@ -24,4 +24,6 @@
 6. [简易网页编后感](https://github.com/fsl623/Tasks/blob/main/%E7%AE%80%E6%98%93%E7%BD%91%E9%A1%B5%E7%BC%96%E5%90%8E%E6%84%9F.md)
 
 # 阶段四学习成果
-1.[招新复刻网站](https://fsl623.github.io/myweb.github.io/)
+1. [招新复刻网站](https://fsl623.github.io/myweb.github.io/)
+
+2. [网站复刻编后感](https://github.com/fsl623/Tasks/blob/main/%E7%BD%91%E7%AB%99%E5%A4%8D%E5%88%BB%E7%BC%96%E5%90%8E%E6%84%9F.md)
