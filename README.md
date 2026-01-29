@@ -27,3 +27,7 @@
 1. [招新复刻网站](https://fsl623.github.io/myweb.github.io/)
 
 2. [网站复刻编后感](https://github.com/fsl623/Tasks/blob/main/%E7%BD%91%E7%AB%99%E5%A4%8D%E5%88%BB%E7%BC%96%E5%90%8E%E6%84%9F.md)
+# 阶段五学习成果
+1. [Linux学习笔记](https://github.com/fsl623/Tasks/blob/main/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+2. [go学习笔记](https://github.com/fsl623/Tasks/blob/main/go%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
